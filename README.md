@@ -39,3 +39,6 @@ This is a 2D physics-based game inspired by *Ballz* by Ketchapp, built in Unity.
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nithish-ac/Ballz-Inspired-2D-Game.git
+2. Download APK:
+   ```bash
+   https://github.com/Nithish-ac/Ballz-Inspired-2D-Game/releases/download/0.1/BallZGame.apk
