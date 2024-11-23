@@ -1,6 +1,6 @@
 # 🎯 **Ballz-Inspired 2D Game**  
 
-![Gameplay GIF](https://placeholder-for-gif-link.com)  
+![Gameplay GIF]([https://placeholder-for-gif-link.com](https://github.com/Nithish-ac/Ballz-Inspired-2D-Game/blob/main/BallzGameplay.gif))  
 *(Replace this link with your gameplay GIF showing the game mechanics in action)*
 
 ---
