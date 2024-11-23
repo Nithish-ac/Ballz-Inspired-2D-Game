@@ -1,8 +1,5 @@
 # 🎯 **Ballz-Inspired 2D Game**  
 
-![Gameplay GIF](https://github.com/Nithish-ac/Ballz-Inspired-2D-Game/blob/main/BallzGameplay.gif)  
-*(Replace this link with your gameplay GIF showing the game mechanics in action)*
-
 ---
 
 ## 🚀 **Project Overview**  
@@ -37,10 +34,10 @@ This is a 2D physics-based game inspired by *Ballz* by Ketchapp, built in Unity.
 - **Colorful Visuals**: Blocks change colors based on their hit points, giving intuitive visual feedback.  
 - **Randomized Block Spawning**: Keeps every game session unique and challenging.  
 - **Game Over Management**: Detects when the game ends and offers seamless restarts for endless fun.  
-
+![Gameplay GIF](https://github.com/Nithish-ac/Ballz-Inspired-2D-Game/blob/main/BallzGameplay.gif)  
 ---
 
 ## 🔧 **How to Play**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Nithish-ac/Ballz-Inspired-2D-Game.git
