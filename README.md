@@ -16,8 +16,6 @@ This is a 2D physics-based game inspired by *Ballz* by Ketchapp, built in Unity.
 - **Dynamic Row Shifting**:
   - After all balls return, existing blocks shift down, and a new row is spawned.
 
-### ⚡ **Power-Ups**
-- Special blocks grant extra abilities, like adding new balls, making every move strategic and rewarding.
 
 ### 🛠️ **Core Gameplay Loop**
 1. **Launch Balls**: Aim and shoot balls to hit blocks.
